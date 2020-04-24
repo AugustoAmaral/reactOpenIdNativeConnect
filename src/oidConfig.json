@@ -1,0 +1,8 @@
+{
+  "scope": "openid",
+  "response_type": "code",
+  "client_id": "CLIENT_ID_HERE",
+  "redirect_uri": "http://localhost:3000/",
+  "client_secret": "CLIENT_SECRET_HERE",
+  "url": "AUTH_PROVIDER_URL_HERE/protocol/openid-connect"
+}
